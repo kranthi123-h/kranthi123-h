@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Deep Learning, NLP, and building end-to-end data projects  
 - 💼 I have experience in SQL, Python, Power BI, Tableau, Snowflake, and ETL frameworks  
 - 💞️ I’m looking to collaborate on data-driven projects, dashboards, or open-source analytics tools  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kranthi-swapna-garapati)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kranthi-s2592/)
 
 
 
